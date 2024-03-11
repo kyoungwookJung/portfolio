@@ -4,14 +4,13 @@
 
 ## :pushpin: Intro
 Java, SpringBoot, SpringDataJPA를 이용해 RestAPI를 개발합니다.
+</br>
 ERD를 설계하고, MySQL를 사용할 수 있습니다.
+</br>
 JavaScript, HTML/CSS, React, JSP로 프론트엔드 개발도 가능합니다.
 </br>
-
 ## :pushpin: Contact
 - 이메일:  jky3313@gmail.com
-</br>
-
 ## :pushpin: Projects
 ### 1. [DAYTE](https://github.com/Junghwan-github/DAYTE)
 >여행 플래너 웹사이트 (팀 프로젝트)  
