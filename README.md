@@ -10,14 +10,14 @@
 ### 1. [DAYTE](https://github.com/Junghwan-github/DAYTE)
 >여행 플래너 웹사이트 (팀 프로젝트)  
 >개발 기간: 2023.12 ~ 2024.02  
->개발 기술 및 환경
+>개발 인원: 8명<br/>
+>담당 역할:
+>- 일정 등록 관리 시스템 구현
+>- 회원 접속 현황 및 통계 구현
+>- 검색 기능 구현
+>- 회원 닉네임 중복 유효성 검사 구현
+>- RDBMS 구축<br/>
 
-| 분류 | 내용|
-|:--:|--|
-|FRAMEWORK|<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/3.2.1-515151?style=for-the-badge">&nbsp;<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"><img src="https://img.shields.io/badge/3.2.3-515151?style=for-the-badge">|
-|LIBRARY|<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">|
-|LANGUAGE|<img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/17-515151?style=for-the-badge">&nbsp;<img src="https://img.shields.io/badge/jsp-%23ED8B00?style=for-the-badge">&nbsp;<img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"><br><img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=111">&nbsp;<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-|VCS|<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/sourcetree-%230052CC?style=for-the-badge">
-|IDE|<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
->[프로젝트 상세 설명](https://github.com/Junghwan-github/DAYTE) 참고
+
+[프로젝트 상세 설명](https://github.com/Junghwan-github/DAYTE)
 ---
