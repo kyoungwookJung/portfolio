@@ -7,7 +7,7 @@
 ## :pushpin: Contact
 >이메일:  jky3313@gmail.com
 ## :pushpin: Projects
-### 1. [DAYTE](https://github.com/Junghwan-github/DAYTE)
+### 1. [DAYTE](http://docs.yi.or.kr:8089)
 >여행 플래너 웹사이트 (팀 프로젝트)  
 >개발 기간: 2023.12 ~ 2024.02  
 >개발 인원: 8명<br/>
@@ -18,6 +18,7 @@
 >- 회원 닉네임 중복 유효성 검사 구현
 >- RDBMS 구축<br/>
 
-
+[프로젝트 보기](http://docs.yi.or.kr:8089)
+---
 [프로젝트 상세 설명](https://github.com/Junghwan-github/DAYTE) 참고
 ---
