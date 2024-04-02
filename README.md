@@ -19,5 +19,5 @@
 >- RDBMS 구축<br/>
 
 
-[프로젝트 상세 설명](https://github.com/Junghwan-github/DAYTE)
+[프로젝트 상세 설명](https://github.com/Junghwan-github/DAYTE) here
 ---
